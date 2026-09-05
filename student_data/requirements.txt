@@ -11,3 +11,4 @@ python-dotenv
 numpy
 gunicorn
 groq
+langchain-groq
