@@ -1,9 +1,11 @@
 flask
+flask-cors
 gunicorn
-faiss-cpu
+langchain
 langchain-community
 langchain-groq
-langchain-core
+faiss-cpu
+groq
 requests
-numpy
 python-dotenv
+numpy
