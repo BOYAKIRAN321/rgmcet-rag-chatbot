@@ -1,0 +1,13 @@
+Student ID: 22091A3426
+Student Name: BANNELA RAJASHEKAR
+Semester: III Year II Sem
+
+Subjects:
+1. Computer Networks — Grade: B — Credits: 3
+2. Software Engineering For Business Applications — Grade: B — Credits: 3
+3. Big Data Analytics — Grade: B — Credits: 3
+4. Marketing Research And Marketing Management — Grade: B — Credits: 3
+5. Sdc-I — Grade: A+ — Credits: 2
+6. Moocs-I (Nptel) — Grade: B — Credits: 3
+7. Software Design And Testing Lab 0 A+ 9 1.5 8 Data Visualization For Business Analysis Lab — Grade: A — Credits: 1.5
+8. Community Service Project — Grade: A — Credits: 1.5

@@ -1,0 +1,17 @@
+Student ID: 23095A3405
+Student Name: PAMALA MURALI KRISHNA
+Father Name: PAMALA VENKATESULU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology
+
+Semester-wise:
+---------------------------------
+II B.Tech. I Sem. R20          → Credits: 21.5  CGPA: 5.92  Backlogs: 0
+II B.Tech. II Sem. R20         → Credits: 21.5  CGPA: 5.69  Backlogs: 0
+III B.Tech. I Sem. R20         → Credits: 21.5  CGPA: 6.85  Backlogs: 0
+III B.Tech. II Sem. R20        → Credits: 21.5  CGPA: 1.63  Backlogs: 0
+IV B.Tech. I Sem. R20          → Credits: 26.0  CGPA: 6.83  Backlogs: 0
+
+Final CGPA → 6.62
+Total Credits → 112
+Total Backlogs → 0

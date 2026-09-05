@@ -1,0 +1,12 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Semester: II Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Probability And Statistics — Grade: A — Credits: 3
+2. P 2 Python Programming — Grade: A — Credits: 3
+3. Database Management Systems — Grade: 3 — Credits: 3
+4. P 4 Formal Languages And Automata Theory — Grade: 3 — Credits: 4
+5. P 5 Business Environment — Grade: 3 — Credits: 5
+6. P 6 Design Thinking And Innovations (Sdc) — Grade: 2 — Credits: 6
+7. P 7 Python Programming Lab — Grade: 7 — Credits: 0

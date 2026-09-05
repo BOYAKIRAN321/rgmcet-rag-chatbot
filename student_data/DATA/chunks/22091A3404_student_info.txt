@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3404
+Student Name: YEKKULURI DINESH REDDY
+Father Name: YEKKULURI BALA DASTAGIRI REDDY
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

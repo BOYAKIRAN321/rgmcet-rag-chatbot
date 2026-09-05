@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3426
+Student Name: BANNELA RAJASHEKAR
+Father Name: BANNELA NARASIMHULU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

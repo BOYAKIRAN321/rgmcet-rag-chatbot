@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3401
+Student Name: AVULA AJAY NAIDU
+Father Name: A NAGARAJU NAIDU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

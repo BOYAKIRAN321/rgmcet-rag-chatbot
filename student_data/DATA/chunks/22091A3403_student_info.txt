@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3403
+Student Name: PUTHA DINESH REDDY
+Father Name: PUTHA NITYANANDA REDDY
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

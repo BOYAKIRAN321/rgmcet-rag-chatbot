@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.env
+student_data/DATA/faiss_index/
+student_data/DATA/chunks/
+student_data/DATA/extracted_text/
+student_data/backend/*.log

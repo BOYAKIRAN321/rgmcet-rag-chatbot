@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3402
+Student Name: KALLURI DEEPTHI
+Father Name: KALLURI SUBBAREDDY
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

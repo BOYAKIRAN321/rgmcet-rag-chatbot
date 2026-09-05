@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3408
+Student Name: SIRIGIREDDY JASWANTH REDDY
+Father Name: SIRIGIREDDY MAHESWARA REDDY
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

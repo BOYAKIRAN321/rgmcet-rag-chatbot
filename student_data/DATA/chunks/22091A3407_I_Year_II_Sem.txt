@@ -1,0 +1,10 @@
+Student ID: 22091A3407
+Student Name: SOMA. INDRANIL
+Semester: I Year II Sem
+
+Subjects:
+1. P 1 Differential Equations And Vector Calculus — Grade: P — Credits: 3
+2. P 2 Modern Engineering Chemistry 0 B+ 7 3 P 3 Problem Solving And Programming — Grade: 3 — Credits: 3
+3. P 4 Basic Electrical Engineering — Grade: A — Credits: 3
+4. P 5 Engineering Drawing — Grade: C — Credits: 3
+5. Engineering Workshop & It Workshop — Grade: 6 — Credits: 0 A+ 9 1.5 P

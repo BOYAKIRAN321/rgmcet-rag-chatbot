@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3418
+Student Name: SEGU NAGENDRA
+Father Name: SEGU ARUN KUMAR
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

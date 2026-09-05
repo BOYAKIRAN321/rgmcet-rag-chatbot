@@ -1,0 +1,26 @@
+Student ID: 22091A3407
+Student Name: SOMA. INDRANIL
+Semester: II Year II Sem
+
+Subjects:
+1. P 1 Digital Logic Design — Grade: P — Credits: 3
+2. P 2 Essential Mathematics For Computational Sciences — Grade: B — Credits: 3
+3. Java Programming — Grade: C — Credits: 3
+4. P 4 Advanced Data Structures And Algorithms — Grade: C — Credits: 3
+5. P 5 Management Science — Grade: B — Credits: 3
+6. P 6 Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: B — Credits: 2
+7. B 6 1.5 P 8 Database Management Systems Lab — Grade: 8 — Credits: 0 B+ 7 1.5 P
+8. Computer Networks — Grade: 3 — Credits: 2
+9. P 2 Software Engineering For Business Applications — Grade: B — Credits: 3
+10. P Regd. No. 22091A3407 1/2 --- Page 2 --- 4 Data Visualization For Business Analysis — Grade: 3 — Credits: 4
+11. Introduction To Innovation, Ip Management And Entrepreneurship — Grade: 3 — Credits: 5
+12. P 6 Working With Cloud Services (Sdc) — Grade: 2 — Credits: 6
+13. Advanced Web Application Development Lab — Grade: A — Credits: 7
+14. Data Visualization For Business Analysis Lab — Grade: 8 — Credits: 0
+15. Iv Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Machine Learning For Finance — Grade: A — Credits: 3
+16. Personnel Management — Grade: A — Credits: 3
+17. P 3 It Project Management — Grade: B — Credits: 3
+18. Rural Management And Technologies — Grade: B — Credits: 2
+19. P 5 6 Moocs-Ii (Nptel) — Grade: B — Credits: 3
+20. P 7 8 Industrial / Research Internship — Grade: 3 — Credits: 8
+21. P 9 10 Deep Learning — Grade: 3 — Credits: 10

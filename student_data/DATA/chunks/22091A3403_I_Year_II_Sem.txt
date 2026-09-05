@@ -1,0 +1,34 @@
+Student ID: 22091A3403
+Student Name: PUTHA DINESH REDDY
+Semester: I Year II Sem
+
+Subjects:
+1. P 1 Differential Equations And Vector Calculus — Grade: C — Credits: 3
+2. P 2 Modern Engineering Chemistry 0 C 5 3 P 3 Problem Solving And Programming — Grade: C — Credits: 3
+3. P 4 Basic Electrical Engineering — Grade: 3 — Credits: 4
+4. P 5 Engineering Drawing — Grade: A — Credits: 3
+5. P 6 Engineering Workshop & It Workshop — Grade: A — Credits: 6
+6. Engineering Physics Lab — Grade: A — Credits: 7
+7. B 6 1.5 P Ii Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Probability And Statistics — Grade: P — Credits: 3
+8. P 2 Python Programming — Grade: C — Credits: 3
+9. P 3 Database Management Systems — Grade: A — Credits: 3
+10. P 4 Formal Languages And Automata Theory — Grade: P — Credits: 3
+11. P 5 Business Environment — Grade: B — Credits: 3
+12. P 6 Design Thinking And Innovations (Sdc) — Grade: B — Credits: 2
+13. P 7 Python Programming Lab — Grade: B — Credits: 7
+14. Database Management Systems Lab — Grade: A — Credits: 8
+15. B 6 1.5 P Iii Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Computer Organization & Operating Systems — Grade: B — Credits: 3
+16. P 2 Full Stack Application Development — Grade: P — Credits: 3
+17. P 3 Engineering Economics & Accountancy For Business Systems — Grade: C — Credits: 3
+18. P Regd. No. 22091A3403 1/2 --- Page 2 --- 4 Data Visualization For Business Analysis — Grade: C — Credits: 3
+19. P 5 Introduction To Innovation, Ip Management And Entrepreneurship — Grade: B — Credits: 3
+20. Working With Cloud Services (Sdc) — Grade: 2 — Credits: 6
+21. Advanced Web Application Development Lab — Grade: B — Credits: 7
+22. Android Programming Lab — Grade: A — Credits: 9
+23. Iv Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Machine Learning For Finance — Grade: B — Credits: 3
+24. P 2 Personnel Management — Grade: B — Credits: 3
+25. It Project Management — Grade: B — Credits: 3
+26. Rural Management And Technologies — Grade: 2 — Credits: 4
+27. P 5 6 Moocs-Ii (Nptel) — Grade: 3 — Credits: 6
+28. P 7 8 Industrial / Research Internship — Grade: 3 — Credits: 8
+29. Deep Learning — Grade: B — Credits: 3

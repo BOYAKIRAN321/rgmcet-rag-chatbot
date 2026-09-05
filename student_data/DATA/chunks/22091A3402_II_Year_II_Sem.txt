@@ -1,0 +1,25 @@
+Student ID: 22091A3402
+Student Name: KALLURI DEEPTHI
+Semester: II Year II Sem
+
+Subjects:
+1. P 1 Digital Logic Design — Grade: 3 — Credits: 2
+2. P 2 Essential Mathematics For Computational Sciences — Grade: 3 — Credits: 3
+3. Java Programming — Grade: B — Credits: 3
+4. Advanced Data Structures And Algorithms — Grade: 3 — Credits: 5
+5. P 5 Management Science — Grade: 3 — Credits: 6
+6. P 6 Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: A — Credits: 2
+7. Database Management Systems Lab — Grade: 8 — Credits: 0 A+ 9 1.5 P
+8. A 8 1.5 P Iii Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Computer Organization & Operating Systems — Grade: A — Credits: 3
+9. Full Stack Application Development — Grade: 3 — Credits: 2
+10. Engineering Economics & Accountancy For Business Systems — Grade: 3 — Credits: 3
+11. Marketing Research And Marketing Management — Grade: 3 — Credits: 5
+12. Sdc-I — Grade: 2 — Credits: 6
+13. P 6 Moocs-I (Nptel) — Grade: 3 — Credits: 7
+14. Iv Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Machine Learning For Finance — Grade: 3 — Credits: 1
+15. Personnel Management — Grade: 3 — Credits: 2
+16. It Project Management — Grade: 3 — Credits: 3
+17. Rural Management And Technologies — Grade: A — Credits: 2
+18. Moocs-Ii (Nptel) — Grade: B — Credits: 3
+19. Industrial / Research Internship — Grade: 3 — Credits: 8
+20. P 9 10 Deep Learning — Grade: A — Credits: 3

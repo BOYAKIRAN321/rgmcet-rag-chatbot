@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3414
+Student Name: TALARI MANOJ KUMAR
+Father Name: T KRISTAPPA
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

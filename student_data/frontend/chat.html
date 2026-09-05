@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>RGMCET Academic Assistant</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="chat.css">
+</head>
+
+<body>
+    <div class="stars">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+</div>
+
+    <!-- ================= HEADER ================= -->
+    <div class="chat-header">
+
+        <div class="left-section">
+            <h2>RGMCET Academic Assistant</h2>
+        </div>
+
+        <div class="right-section">
+
+            <!-- 🌗 Dark/Light Toggle -->
+            <label class="theme-switch">
+                <input type="checkbox" id="themeToggle">
+                <span class="slider"></span>
+            </label>
+
+            <a href="index.html" class="back-link">← Back to Home</a>
+
+        </div>
+
+    </div>
+
+    <!-- ================= CHAT AREA ================= -->
+    <div class="chat-container" id="chatBox">
+        <div class="message bot-message">
+            Welcome to the RGMCET Academic Assistant.
+
+            This platform is designed to provide secure and instant access to student academic data and performance insights.
+
+            Academic Information Services:"
+            "📘 Student Records"
+            "1️⃣ Marks and Score Details"
+            "2️⃣ Semester Results"
+            "3️⃣ Subject List"
+            "4️⃣ Backlog Status"
+            "5️⃣ CGPA and Performance"
+
+            "📊 Institutional Data\n"
+            "6️⃣ Student Ranking and Top Performers"
+            "7️⃣ Total Student Strength"
+
+            Kindly enter your query to proceed.
+        </div>
+    </div>
+
+    <!-- ================= INPUT AREA ================= -->
+    <div class="input-area">
+        <input 
+            type="text" 
+            id="userInput" 
+            placeholder="Type or speak your message..." 
+            autocomplete="off"
+        />
+        <button id="micButton" onclick="startListening()">🎤</button>
+        <button onclick="sendQuery()">Send</button>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

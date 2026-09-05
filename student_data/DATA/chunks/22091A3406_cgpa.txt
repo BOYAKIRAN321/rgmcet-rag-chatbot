@@ -1,0 +1,18 @@
+Student ID: 22091A3406
+Student Name: ADIKE HARISH
+Father Name: ADIKE SARVESWARAIAH
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology
+
+Semester-wise:
+---------------------------------
+I B.Tech. I Sem. R20           → Credits: 19.5  CGPA: 5.85  Backlogs: 0
+I B.Tech. II Sem. R20          → Credits: 19.5  CGPA: 5.23  Backlogs: 0
+II B.Tech. I Sem. R20          → Credits: 21.5  CGPA: 4.92  Backlogs: 0
+II B.Tech. I Sem. R20          → Credits: 21.5  CGPA: 5.62  Backlogs: 0
+III B.Tech. II Sem. R20        → Credits: 18.5  CGPA: 5.30  Backlogs: 1
+IV B.Tech. I Sem. R20          → Credits: 14.0  CGPA: 3.46  Backlogs: 4
+
+Final CGPA → 4.98
+Total Credits → 136
+Total Backlogs → 5

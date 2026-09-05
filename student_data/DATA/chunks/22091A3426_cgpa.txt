@@ -1,0 +1,19 @@
+Student ID: 22091A3426
+Student Name: BANNELA RAJASHEKAR
+Father Name: BANNELA NARASIMHULU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology
+
+Semester-wise:
+---------------------------------
+I B.Tech. I Sem. R20           → Credits: 19.5  CGPA: 6.23  Backlogs: 0
+I B.Tech. II Sem. R20          → Credits: 19.5  CGPA: 5.85  Backlogs: 0
+II B.Tech. I Sem. R20          → Credits: 21.5  CGPA: 5.92  Backlogs: 0
+II B.Tech. II Sem. R20         → Credits: 21.5  CGPA: 5.38  Backlogs: 0
+III B.Tech. I Sem. R20         → Credits: 21.5  CGPA: 5.92  Backlogs: 0
+III B.Tech. II Sem. R20        → Credits: 21.5  CGPA: 6.70  Backlogs: 0
+IV B.Tech. I Sem. R20          → Credits: 26.0  CGPA: 7.29  Backlogs: 0
+
+Final CGPA → 6.23
+Total Credits → 151
+Total Backlogs → 0

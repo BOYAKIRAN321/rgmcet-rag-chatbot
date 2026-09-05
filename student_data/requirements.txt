@@ -1,0 +1,11 @@
+Flask==2.2.5
+PyPDF2==3.0.0
+PyMuPDF
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+python-dotenv
+numpy

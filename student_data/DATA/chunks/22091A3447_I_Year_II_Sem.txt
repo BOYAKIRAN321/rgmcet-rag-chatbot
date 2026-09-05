@@ -1,0 +1,13 @@
+Student ID: 22091A3447
+Student Name: CHENCHU YUGANDHAR
+Semester: I Year II Sem
+
+Subjects:
+1. Differential Equations And Vector Calculus — Grade: B+ — Credits: 3
+2. Modern Engineering Chemistry — Grade: B — Credits: 3
+3. Data Structures — Grade: B+ — Credits: 3
+4. Mathematical Foundations Of Computer Science — Grade: A — Credits: 3
+5. English For Engineers — Grade: B — Credits: 3
+6. Digital English Language Lab — Grade: A — Credits: 1.5
+7. Engineering Chemistry Lab — Grade: B+ — Credits: 1.5
+8. Data Structures Lab — Grade: B+ — Credits: 1.5

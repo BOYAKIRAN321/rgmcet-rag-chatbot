@@ -1,0 +1,19 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Father Name: K V NAGENDRA RAO
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology
+
+Semester-wise:
+---------------------------------
+I B.Tech. I Sem. R20           → Credits: 19.5  CGPA: 8.31  Backlogs: 0
+I B.Tech. II Sem. R20          → Credits: 19.5  CGPA: 9.08  Backlogs: 0
+II B.Tech. I Sem. R20          → Credits: 21.5  CGPA: 8.69  Backlogs: 0
+II B.Tech. II Sem. R20         → Credits: 21.5  CGPA: 8.23  Backlogs: 0
+III B.Tech. I Sem. R20         → Credits: 21.5  CGPA: 8.46  Backlogs: 0
+III B.Tech. II Sem. R20        → Credits: 21.5  CGPA: 8.72  Backlogs: 0
+IV B.Tech. I Sem. R20          → Credits: 26.0  CGPA: 8.21  Backlogs: 0
+
+Final CGPA → 8.52
+Total Credits → 151
+Total Backlogs → 0

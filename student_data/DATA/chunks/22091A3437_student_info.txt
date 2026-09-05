@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3437
+Student Name: GANGALAKUNTA SWARNALATHA
+Father Name: G NALAPAREDDY
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

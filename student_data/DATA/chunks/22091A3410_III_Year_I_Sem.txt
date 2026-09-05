@@ -1,0 +1,18 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Semester: III Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Computer Organization & Operating Systems — Grade: A — Credits: 3
+2. P 2 Full Stack Application Development — Grade: 3 — Credits: 2
+3. Engineering Economics & Accountancy For Business Systems — Grade: 3 — Credits: 3
+4. Marketing Research And Marketing Management — Grade: A — Credits: 3
+5. P 5 Sdc-I — Grade: 2 — Credits: 6
+6. Moocs-I (Nptel) — Grade: 3 — Credits: 7
+7. O 10 1.5 P 9 Community Service Project — Grade: 9 — Credits: 0
+8. Technical Seminar — Grade: 1 — Credits: 2
+9. Internship In Industry — Grade: 5 — Credits: 3
+10. Major Project — Grade: 6 — Credits: 4
+11. P 4 5 Computer Vision With Opencv (Sdc) — Grade: A — Credits: 2
+12. P 6 7 Comprehensive Viva Voce-Vii — Grade: O 10 1 — Credits: 7
+13. Universal Human Values — Grade: 3 — Credits: 9

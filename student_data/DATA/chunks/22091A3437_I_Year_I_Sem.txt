@@ -1,0 +1,30 @@
+Student ID: 22091A3437
+Student Name: GANGALAKUNTA SWARNALATHA
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Linear Algebra And Advanced Calculus — Grade: O — Credits: 3
+2. Applied Physics — Grade: A — Credits: 3
+3. Problem Solving And Programming — Grade: A — Credits: 3
+4. Basic Electrical Engineering — Grade: O — Credits: 3
+5. Engineering Drawing — Grade: A+ — Credits: 3
+6. Engineering Workshop & It Workshop — Grade: O — Credits: 6
+7. Engineering Physics Lab — Grade: O — Credits: 7
+8. Problem Solving And Programming Lab — Grade: O — Credits: 8
+9. Digital Logic Design — Grade: A — Credits: 3
+10. Essential Mathematics For Computational Sciences — Grade: A — Credits: 3
+11. Java Programming — Grade: A — Credits: 3
+12. Advanced Data Structures And Algorithms — Grade: A — Credits: 3
+13. Management Science — Grade: A — Credits: 3
+14. Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: A+ — Credits: 2
+15. Digital Logic Design Lab — Grade: A+ — Credits: 1.5
+16. Java Programming Lab — Grade: O — Credits: 9
+17. O 10 1.5 Iii Year I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Computer Organization & Operating Systems — Grade: A — Credits: 3
+18. Full Stack Application Development — Grade: B+ — Credits: 3
+19. Engineering Economics & Accountancy For Business Systems — Grade: B+ — Credits: 3
+20. Data Visualization For Business Analysis — Grade: A — Credits: 3
+21. Introduction To Innovation, Ip Management And Entrepreneurship — Grade: B+ — Credits: 3
+22. Working With Cloud Services (Sdc) — Grade: A — Credits: 2
+23. Advanced Web Application Development Lab — Grade: O — Credits: 7
+24. Android Programming Lab — Grade: O — Credits: 9
+25. Big Data Analytics Lab — Grade: O — Credits: 2/2

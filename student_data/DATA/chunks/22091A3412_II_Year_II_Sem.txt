@@ -1,0 +1,14 @@
+Student ID: 22091A3412
+Student Name: PUCHAKATLA LATHA
+Semester: II Year II Sem
+
+Subjects:
+1. Digital Logic Design — Grade: O — Credits: 3
+2. Essential Mathematics For Computational Sciences — Grade: B+ — Credits: 3
+3. Java Programming — Grade: A — Credits: 3
+4. Advanced Data Structures And Algorithms — Grade: B+ — Credits: 3
+5. Management Science — Grade: A — Credits: 3
+6. Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: A+ — Credits: 2
+7. Digital Logic Design Lab — Grade: A+ — Credits: 1.5
+8. Java Programming Lab — Grade: O — Credits: 9
+9. Advanced Data Structures And Algorithms Lab — Grade: A+ — Credits: 1.5

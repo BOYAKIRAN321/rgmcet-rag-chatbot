@@ -1,0 +1,25 @@
+Student ID: 22091A3402
+Student Name: KALLURI DEEPTHI
+Semester: II Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Probability And Statistics — Grade: B — Credits: 3
+2. Python Programming — Grade: A — Credits: 3
+3. Database Management Systems — Grade: 3 — Credits: 3
+4. P 4 Formal Languages And Automata Theory — Grade: 3 — Credits: 4
+5. Business Environment — Grade: A — Credits: 3
+6. Design Thinking And Innovations (Sdc) — Grade: A — Credits: 2
+7. P 7 Python Programming Lab — Grade: 7 — Credits: 0 B+ 7 1.5 P
+8. Unix And Shell Programming Lab — Grade: A — Credits: 9
+9. P 1 Computer Networks — Grade: 3 — Credits: 2
+10. Software Engineering For Business Applications — Grade: 3 — Credits: 3
+11. P Regd. No. 22091A3402 1/2 --- Page 2 --- 4 Data Visualization For Business Analysis — Grade: 3 — Credits: 4
+12. Introduction To Innovation, Ip Management And Entrepreneurship — Grade: 3 — Credits: 5
+13. Working With Cloud Services (Sdc) — Grade: A — Credits: 2
+14. O 10 1.5 P 8 Data Visualization For Business Analysis Lab — Grade: 8 — Credits: 0 A+ 9 1.5 P
+15. Technical Seminar — Grade: 1 — Credits: 2
+16. Internship In Industry — Grade: 5 — Credits: 3
+17. Major Project — Grade: 6 — Credits: 4
+18. P 4 5 Computer Vision With Opencv (Sdc) — Grade: 2 — Credits: 5
+19. P 6 7 Comprehensive Viva Voce-Vii — Grade: O 10 1 — Credits: 7
+20. Universal Human Values — Grade: A — Credits: 3

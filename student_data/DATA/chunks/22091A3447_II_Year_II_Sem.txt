@@ -1,0 +1,14 @@
+Student ID: 22091A3447
+Student Name: CHENCHU YUGANDHAR
+Semester: II Year II Sem
+
+Subjects:
+1. Digital Logic Design — Grade: B — Credits: 3
+2. Essential Mathematics For Computational Sciences — Grade: C — Credits: 3
+3. Java Programming — Grade: C — Credits: 3
+4. Advanced Data Structures And Algorithms — Grade: P — Credits: 3
+5. Management Science — Grade: B — Credits: 3
+6. Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: A — Credits: 2
+7. Digital Logic Design Lab — Grade: B — Credits: 1.5
+8. Java Programming Lab — Grade: A — Credits: 1.5
+9. Advanced Data Structures And Algorithms Lab — Grade: B — Credits: 1.5

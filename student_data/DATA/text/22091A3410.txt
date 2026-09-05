@@ -1,0 +1,88 @@
+
+
+===== PAGE 1 =====
+
+Student Details
+
+Regd. No. 22091A3410
+Degree & Branch B.Tech. & CSE&BS
+Name KUMPATI KAVYA
+Father Name K V NAGENDRA RAO
+Mother Name KUMPATI UMA DEVI
+Gender F
+Category BC-D
+Date of Birth 27-10-2004
+Academic Bank of Credit 694485084780 - Valid
+Year/Sem Activity Name Status Result
+1 Awareness Programs in villages Approved Satisfactory
+2 Teaching in schools Approved Satisfactory
+Foreign Language Germany
+S.No. Subject Name Month & Year Marks Year & Sem. Status
+1 Soft Skills July - Dec 2023 52 IV B.Tech. | Sem. (Approved }
+2 Introduction To Internet Of Things Jan - April 2024 69 Il B.Tech. Il Sem. (approved }
+Year & Sem. Regulation Credits SGPA Backlogs
+| B.Tech. | Sem. R20 19.5 8.31 0
+| B.Tech. Il Sem. R20 19.5 9.08 0
+I1 B.Tech. | Sem. R20 21.5 8.69 0
+I1 B.Tech. Il Sem. R20 21.5 8.23 0
+Ill B.Tech. | Sem. R20 21.5 8.46 0
+Ill B.Tech. Il Sem. R20 21.5 8.72 0
+IV B.Tech. | Sem. R20 26 8.21 0
+Total 151 8.52 0
+
+1/3
+
+
+===== PAGE 2 =====
+
+S.No Year & Sem Subject Attempt
+
+Nil
+
+Condonation, Rejoin & Detained
+
+Condonation
+
+S.No Batch Year & Sem. Cond. Yr. Percentage
+Nil
+Detained
+S.No Batch Year & Sem. Reason Percentage
+Nil
+Rejoining
+S.No Year & Sem. Rejoin with Batch
+Nil
+
+1 B.Tech. | Sem.(A -Section)
+
+LAAC AP PSP BEE ED EWITW EP Lab PSP Lab
+SubName A0001(30) A0004(30) A0501(30) A0202(30) A0301(30) A0592(25) A0093(25) A0591 (25)
+
+INT-1 19 14 15 19 16 23 24 20
+INT-2 7 16 15 19 18
+AS-1 10 10 9 10 9
+AS-2 10 10 10 10 10
+Final 26 26 25 29 27 23 24 20
+
+| B.Tech. Il Sem.(A -Section)
+
+DEVC MEC DS MFCS EE DEL Lab EC Lab DS Lab
+SubName A0007(30) A0005(30) A0502(30) A0503(30) A0003(30) A0091(25) A0092(25) A0593 (25)
+
+INT-1 10 18 17 15 17 23 19 22
+INT-2 17 19 19 18 18
+AS-1 10 10 9 10 9
+AS-2 10 10 9 10 10
+Final 26 29 28 28 28 23 19 22
+
+Il B.Tech. | Sem.(A -Section)
+
+P&S PYP DBMS FLAT BE DT PYP Lab DBMSLab - USP Lab
+Sub A0020 A0504 A0507 A0508 A3401 A0012 A0571 A0595 A0596
+Name (30) (30) (30) (30) (30) (30) (25) (25) (25)
+INT-1 13 18 17 8 18 19 23 21 21
+INT-2 11 19 18 18 17 17
+AS-1 9 10 10 8 10 9
+AS-2 10 10 10 9 10 10
+Final 22 29 28 24 28 28 23 21 21
+
+2/3

@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 23095A3403
+Student Name: BOYA KIRAN
+Father Name: BOYA BABU NAIDU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

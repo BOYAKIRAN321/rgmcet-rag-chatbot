@@ -1,0 +1,13 @@
+Student ID: 22091A3412
+Student Name: PUCHAKATLA LATHA
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Linear Algebra And Advanced Calculus — Grade: A+ — Credits: 3
+2. Applied Physics — Grade: A — Credits: 3
+3. Problem Solving And Programming — Grade: A — Credits: 3
+4. Basic Electrical Engineering — Grade: O — Credits: 3
+5. Engineering Drawing — Grade: A — Credits: 3
+6. Engineering Workshop & It Workshop — Grade: A+ — Credits: 1.5
+7. Engineering Physics Lab — Grade: O — Credits: 7
+8. Problem Solving And Programming Lab — Grade: A+ — Credits: 1.5

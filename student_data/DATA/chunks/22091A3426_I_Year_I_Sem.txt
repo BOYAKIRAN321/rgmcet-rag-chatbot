@@ -1,0 +1,13 @@
+Student ID: 22091A3426
+Student Name: BANNELA RAJASHEKAR
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Linear Algebra And Advanced Calculus — Grade: C — Credits: 3
+2. Applied Physics — Grade: B — Credits: 3
+3. Problem Solving And Programming — Grade: B — Credits: 3
+4. Basic Electrical Engineering — Grade: B — Credits: 3
+5. Engineering Drawing — Grade: C — Credits: 3
+6. Engineering Workshop & It Workshop — Grade: A+ — Credits: 1.5
+7. Engineering Physics Lab — Grade: B+ — Credits: 1.5
+8. Problem Solving And Programming Lab — Grade: A+ — Credits: 1.5

@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3427
+Student Name: KUMMARI RAJESWARI
+Father Name: KUMMARI RAMUDU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

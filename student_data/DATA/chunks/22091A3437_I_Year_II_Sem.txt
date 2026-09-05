@@ -1,0 +1,29 @@
+Student ID: 22091A3437
+Student Name: GANGALAKUNTA SWARNALATHA
+Semester: I Year II Sem
+
+Subjects:
+1. Differential Equations And Vector Calculus — Grade: O — Credits: 3
+2. Modern Engineering Chemistry — Grade: A+ — Credits: 3
+3. Data Structures — Grade: A+ — Credits: 3
+4. Mathematical Foundations Of Computer Science — Grade: A+ — Credits: 3
+5. English For Engineers — Grade: A+ — Credits: 3
+6. Digital English Language Lab — Grade: A+ — Credits: 1.5
+7. Engineering Chemistry Lab — Grade: O — Credits: 8
+8. O 10 1.5 Ii Year I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Probability And Statistics — Grade: A — Credits: 3
+9. Python Programming — Grade: A — Credits: 3
+10. Database Management Systems — Grade: O — Credits: 3
+11. Formal Languages And Automata Theory — Grade: A+ — Credits: 3
+12. Business Environment — Grade: B+ — Credits: 3
+13. Design Thinking And Innovations (Sdc) — Grade: A — Credits: 2
+14. Python Programming Lab — Grade: A — Credits: 1.5
+15. Database Management Systems Lab — Grade: O — Credits: 8
+16. Unix And Shell Programming Lab — Grade: A — Credits: 1.5
+17. Computer Networks — Grade: B+ — Credits: 3
+18. Software Engineering For Business Applications — Grade: B+ — Credits: 3
+19. Big Data Analytics — Grade: A+ — Credits: 3
+20. Marketing Research And Marketing Management — Grade: A — Credits: 3
+21. Sdc-I — Grade: A+ — Credits: 2
+22. Moocs-I (Nptel) — Grade: B+ — Credits: 3
+23. Software Design And Testing Lab 0 O 10 1.5 8 Data Visualization For Business Analysis Lab — Grade: A+ — Credits: 1.5
+24. Community Service Project — Grade: O — Credits: 9

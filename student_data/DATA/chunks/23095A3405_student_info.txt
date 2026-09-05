@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 23095A3405
+Student Name: PAMALA MURALI KRISHNA
+Father Name: PAMALA VENKATESULU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

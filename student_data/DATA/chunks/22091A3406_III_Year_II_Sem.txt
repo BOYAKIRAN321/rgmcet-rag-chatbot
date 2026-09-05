@@ -1,0 +1,18 @@
+Student ID: 22091A3406
+Student Name: ADIKE HARISH
+Semester: III Year II Sem
+
+Subjects:
+1. Computer Networks — Grade: B — Credits: 3
+2. Big Data Analytics — Grade: B — Credits: 3
+3. Marketing Research And Marketing Management — Grade: P — Credits: 3
+4. Sdc-I — Grade: A+ — Credits: 2
+5. Moocs-I (Nptel) — Grade: C — Credits: 3
+6. Software Design And Testing Lab 0 B+ 7 1.5 7 Advanced Web Application Development Lab — Grade: B — Credits: 1.5
+7. Data Visualization For Business Analysis Lab — Grade: A — Credits: 1.5
+8. Community Service Project — Grade: A+ — Credits: 1.5
+9. Iv Year I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Rural Management And Technologies — Grade: B — Credits: 2
+10. Moocs-Ii (Nptel) — Grade: B — Credits: 3
+11. Industrial / Research Internship — Grade: A+ — Credits: 3
+12. Machine Learning For Finance — Grade: F — Credits: 0
+13. It Project Management — Grade: F — Credits: 0

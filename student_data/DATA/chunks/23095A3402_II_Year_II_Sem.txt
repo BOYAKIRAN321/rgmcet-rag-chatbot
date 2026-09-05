@@ -1,0 +1,14 @@
+Student ID: 23095A3402
+Student Name: PEDDAMALLU GANGA PRANEETH REDDY
+Semester: II Year II Sem
+
+Subjects:
+1. Digital Logic Design — Grade: B — Credits: 3
+2. Essential Mathematics For Computational Sciences — Grade: B — Credits: 3
+3. Java Programming — Grade: B+ — Credits: 3
+4. Advanced Data Structures And Algorithms — Grade: B — Credits: 3
+5. Management Science — Grade: B — Credits: 3
+6. Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: O — Credits: 2
+7. Digital Logic Design Lab — Grade: A+ — Credits: 1.5
+8. Java Programming Lab — Grade: O — Credits: 9
+9. Advanced Data Structures And Algorithms Lab — Grade: A — Credits: 1.5

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Speech to English Converter</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 80px;
+            background: #f4f6f9;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        textarea {
+            width: 60%;
+            height: 150px;
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            resize: none;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        #startBtn {
+            background: green;
+            color: white;
+        }
+
+        #stopBtn {
+            background: red;
+            color: white;
+        }
+
+        #status {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>🎤 Speak and Convert to English</h2>
+
+    <textarea id="textInput" placeholder="Type here or use microphone..."></textarea>
+    <br>
+
+    <button id="startBtn">Start 🎤</button>
+    <button id="stopBtn">Stop 🛑</button>
+
+    <p id="status">Status: Idle</p>
+
+<script>
+
+let recognition;
+let isListening = false;
+
+const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+if (!SpeechRecognition) {
+    alert("Speech Recognition not supported. Please use Google Chrome.");
+} else {
+
+    recognition = new SpeechRecognition();
+    recognition.lang = "en-US";
+    recognition.continuous = true;
+    recognition.interimResults = true;
+
+    recognition.onstart = function () {
+        isListening = true;
+        document.getElementById("status").innerText = "Status: Listening...";
+        console.log("Listening started");
+    };
+
+    recognition.onresult = function (event) {
+        let finalText = "";
+        let interimText = "";
+
+        for (let i = 0; i < event.results.length; i++) {
+            let transcript = event.results[i][0].transcript;
+
+            if (event.results[i].isFinal) {
+                finalText += transcript + " ";
+            } else {
+                interimText += transcript;
+            }
+        }
+
+        document.getElementById("textInput").value = finalText + interimText;
+    };
+
+    recognition.onerror = function (event) {
+        console.log("Error:", event.error);
+        document.getElementById("status").innerText = "Error: " + event.error;
+    };
+
+    recognition.onend = function () {
+        console.log("Recognition ended");
+
+        if (isListening) {
+            recognition.start(); // auto restart
+        } else {
+            document.getElementById("status").innerText = "Status: Stopped";
+        }
+    };
+
+    document.getElementById("startBtn").onclick = function () {
+        recognition.start();
+    };
+
+    document.getElementById("stopBtn").onclick = function () {
+        isListening = false;
+        recognition.stop();
+    };
+}
+
+</script>
+
+</body>
+</html>

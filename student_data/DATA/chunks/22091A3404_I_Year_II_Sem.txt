@@ -1,0 +1,11 @@
+Student ID: 22091A3404
+Student Name: YEKKULURI DINESH REDDY
+Semester: I Year II Sem
+
+Subjects:
+1. P 1 Differential Equations And Vector Calculus — Grade: C — Credits: 3
+2. P 2 Modern Engineering Chemistry 0 B 6 3 P 3 Problem Solving And Programming — Grade: B — Credits: 3
+3. P 4 Basic Electrical Engineering — Grade: C — Credits: 3
+4. P 5 Engineering Drawing — Grade: C — Credits: 3
+5. Engineering Workshop & It Workshop — Grade: A — Credits: 6
+6. Problem Solving And Programming Lab — Grade: 8 — Credits: 0 B+ 7 1.5 P

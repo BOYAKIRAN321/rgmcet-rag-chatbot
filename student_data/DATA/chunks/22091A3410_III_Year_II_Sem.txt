@@ -1,0 +1,18 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Semester: III Year II Sem
+
+Subjects:
+1. P 1 Computer Networks — Grade: A — Credits: 3
+2. Software Engineering For Business Applications — Grade: 3 — Credits: 3
+3. O 10 3 P Regd. No. 22091A3410 1/2 --- Page 2 --- 4 Data Visualization For Business Analysis — Grade: 3 — Credits: 4
+4. P 5 Introduction To Innovation, Ip Management And Entrepreneurship — Grade: A — Credits: 3
+5. Working With Cloud Services (Sdc) — Grade: 2 — Credits: 6
+6. Data Visualization For Business Analysis Lab — Grade: 8 — Credits: 0
+7. O 10 1.5 P Iv Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Machine Learning For Finance — Grade: 3 — Credits: 1
+8. Personnel Management — Grade: 3 — Credits: 2
+9. It Project Management — Grade: 3 — Credits: 3
+10. Rural Management And Technologies — Grade: A — Credits: 2
+11. P 5 6 Moocs-Ii (Nptel) — Grade: B — Credits: 3
+12. Industrial / Research Internship — Grade: O 10 3 — Credits: 8
+13. Deep Learning — Grade: 3 — Credits: 10

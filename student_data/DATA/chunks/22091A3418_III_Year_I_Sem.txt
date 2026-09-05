@@ -1,0 +1,14 @@
+Student ID: 22091A3418
+Student Name: SEGU NAGENDRA
+Semester: III Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Computer Organization & Operating Systems — Grade: B — Credits: 3
+2. Full Stack Application Development — Grade: B+ — Credits: 3
+3. Engineering Economics & Accountancy For Business Systems — Grade: B — Credits: 3
+4. Data Visualization For Business Analysis — Grade: B+ — Credits: 3
+5. Introduction To Innovation, Ip Management And Entrepreneurship — Grade: B — Credits: 3
+6. Working With Cloud Services (Sdc) — Grade: B+ — Credits: 2
+7. Advanced Web Application Development Lab — Grade: A+ — Credits: 1.5
+8. Android Programming Lab — Grade: A — Credits: 1.5
+9. Big Data Analytics Lab — Grade: A — Credits: 1.5

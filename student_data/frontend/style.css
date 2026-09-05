@@ -1,0 +1,186 @@
+/* ===============================
+   RESET
+=============================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+/* ===============================
+   NAVBAR
+=============================== */
+.navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.navbar nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: 400;
+    transition: 0.3s;
+}
+
+.navbar nav a:hover {
+    color: #00c6ff;
+}
+
+/* ===============================
+   HERO SECTION
+=============================== */
+.hero-section {
+    position: relative;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: url("image.png") center/cover no-repeat;
+    overflow: hidden;
+}
+
+/* Subtle dark overlay for readability */
+.hero-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+/* ===============================
+   FLOATING PARTICLES (SUBTLE)
+=============================== */
+.particles {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.particles span {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    animation: floatParticles 20s linear infinite;
+}
+
+.particles span:nth-child(1) { left: 10%; animation-duration: 18s; }
+.particles span:nth-child(2) { left: 25%; animation-duration: 22s; }
+.particles span:nth-child(3) { left: 40%; animation-duration: 20s; }
+.particles span:nth-child(4) { left: 60%; animation-duration: 25s; }
+.particles span:nth-child(5) { left: 75%; animation-duration: 19s; }
+.particles span:nth-child(6) { left: 90%; animation-duration: 23s; }
+
+@keyframes floatParticles {
+    0% {
+        bottom: -10px;
+        opacity: 0;
+        transform: translateX(0);
+    }
+    10% { opacity: 0.6; }
+    50% { transform: translateX(15px); }
+    100% {
+        bottom: 110%;
+        opacity: 0;
+        transform: translateX(-15px);
+    }
+}
+
+/* ===============================
+   HERO CONTENT CARD
+=============================== */
+.hero-content {
+    position: relative;
+    z-index: 2;
+
+    max-width: 850px;
+    text-align: center;
+    padding: 45px;
+    border-radius: 15px;
+
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(12px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+
+    animation: fadeUp 1s ease forwards;
+}
+
+@keyframes fadeUp {
+    from {
+        transform: translateY(40px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* ===============================
+   TEXT STYLING
+=============================== */
+.hero-content h1 {
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.hero-content h1 span {
+    color: #00c6ff;
+}
+
+.tagline {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #00c6ff;
+}
+
+.description {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #e0e0e0;
+}
+
+/* ===============================
+   BUTTON
+=============================== */
+.get-started-btn {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 14px 35px;
+    border-radius: 30px;
+    background: linear-gradient(135deg, #00c6ff, #0096c7);
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.get-started-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 150, 199, 0.4);
+}

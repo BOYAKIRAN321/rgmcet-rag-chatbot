@@ -1,0 +1,11 @@
+Student ID: 22091A3402
+Student Name: KALLURI DEEPTHI
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Linear Algebra And Advanced Calculus — Grade: O 10 3 — Credits: 1
+2. Applied Physics — Grade: A — Credits: 3
+3. P 3 Data Structures — Grade: A — Credits: 3
+4. Mathematical Foundations Of Computer Science — Grade: 3 — Credits: 5
+5. English For Engineers — Grade: 3 — Credits: 6
+6. Engineering Physics Lab — Grade: 7 — Credits: 0 A+ 9 1.5 P

@@ -1,0 +1,17 @@
+Student ID: 23095A3403
+Student Name: BOYA KIRAN
+Father Name: BOYA BABU NAIDU
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology
+
+Semester-wise:
+---------------------------------
+II B.Tech. I Sem. R20          → Credits: 21.5  CGPA: 6.00  Backlogs: 0
+II B.Tech. II Sem. R20         → Credits: 21.5  CGPA: 6.00  Backlogs: 0
+III B.Tech. I Sem. R20         → Credits: 21.5  CGPA: 7.08  Backlogs: 0
+III B.Tech. II Sem. R20        → Credits: 21.5  CGPA: 7.00  Backlogs: 0
+IV B.Tech. I Sem. R20          → Credits: 26.0  CGPA: 7.08  Backlogs: 0
+
+Final CGPA → 6.66
+Total Credits → 112
+Total Backlogs → 0

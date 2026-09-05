@@ -1,0 +1,14 @@
+Student ID: 22091A3418
+Student Name: SEGU NAGENDRA
+Semester: II Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Em Tot Cr. S.No. Subject Im Em Tot Cr. 1 Probability And Statistics — Grade: B — Credits: 3
+2. Python Programming — Grade: B — Credits: 3
+3. Database Management Systems — Grade: B+ — Credits: 3
+4. Formal Languages And Automata Theory — Grade: B — Credits: 3
+5. Business Environment — Grade: C — Credits: 3
+6. Design Thinking And Innovations (Sdc) — Grade: B — Credits: 2
+7. Python Programming Lab — Grade: B+ — Credits: 1.5
+8. Database Management Systems Lab — Grade: A+ — Credits: 1.5
+9. Unix And Shell Programming Lab — Grade: B — Credits: 1.5

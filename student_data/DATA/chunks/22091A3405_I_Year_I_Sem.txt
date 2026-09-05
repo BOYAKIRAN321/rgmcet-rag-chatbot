@@ -1,0 +1,18 @@
+Student ID: 22091A3405
+Student Name: TELLAPURI HARI KIRAN REDDY
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Linear Algebra And Advanced Calculus — Grade: A — Credits: 3
+2. Applied Physics — Grade: A — Credits: 3
+3. Data Structures — Grade: 3 — Credits: 4
+4. Mathematical Foundations Of Computer Science — Grade: 3 — Credits: 5
+5. English For Engineers — Grade: 3 — Credits: 6
+6. A 8 1.5 P 7 Engineering Physics Lab — Grade: 7 — Credits: 0
+7. O 10 1.5 P Ii Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Probability And Statistics — Grade: 3 — Credits: 1
+8. Python Programming — Grade: A — Credits: 3
+9. P 3 Database Management Systems — Grade: 3 — Credits: 3
+10. P 4 Formal Languages And Automata Theory — Grade: 3 — Credits: 4
+11. Business Environment — Grade: A — Credits: 3
+12. Design Thinking And Innovations (Sdc) — Grade: 2 — Credits: 6
+13. O 10 1.5 P 7 Digital Logic Design Lab — Grade: A — Credits: 8

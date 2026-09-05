@@ -1,0 +1,11 @@
+Student ID: 22091A3402
+Student Name: KALLURI DEEPTHI
+Semester: I Year II Sem
+
+Subjects:
+1. Differential Equations And Vector Calculus — Grade: 3 — Credits: 2
+2. P 2 Modern Engineering Chemistry 0 A 8 3 P 3 Problem Solving And Programming — Grade: A — Credits: 3
+3. P 4 Basic Electrical Engineering — Grade: 3 — Credits: 4
+4. Engineering Drawing — Grade: 3 — Credits: 5
+5. Engineering Workshop & It Workshop — Grade: 6 — Credits: 0 A+ 9 1.5 P
+6. Problem Solving And Programming Lab — Grade: 8 — Credits: 0 A+ 9 1.5 P

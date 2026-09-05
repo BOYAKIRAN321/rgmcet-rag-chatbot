@@ -1,0 +1,10 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Semester: I Year II Sem
+
+Subjects:
+1. P 1 Differential Equations And Vector Calculus — Grade: 3 — Credits: 2
+2. P 2 Modern Engineering Chemistry 0 A+ 9 3 P 3 Problem Solving And Programming — Grade: 3 — Credits: 3
+3. Basic Electrical Engineering — Grade: 3 — Credits: 4
+4. Engineering Drawing — Grade: A — Credits: 3
+5. O 10 1.5 P 7 Engineering Physics Lab — Grade: 7 — Credits: 0 A+ 9 1.5 P

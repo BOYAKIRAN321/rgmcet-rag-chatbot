@@ -1,0 +1,29 @@
+Student ID: 22091A3409
+Student Name: BHOGATHI KALPANA
+Semester: I Year II Sem
+
+Subjects:
+1. Differential Equations And Vector Calculus — Grade: 3 — Credits: 2
+2. Modern Engineering Chemistry 0 A+ 9 3 P 3 Problem Solving And Programming — Grade: 3 — Credits: 3
+3. Basic Electrical Engineering — Grade: O 10 3 — Credits: 4
+4. P 5 Engineering Drawing — Grade: A — Credits: 3
+5. O 10 1.5 P 6 Digital English Language Lab — Grade: 7 — Credits: 0
+6. P 1 Digital Logic Design — Grade: 3 — Credits: 2
+7. P 2 Essential Mathematics For Computational Sciences — Grade: B — Credits: 3
+8. Java Programming — Grade: 3 — Credits: 4
+9. Advanced Data Structures And Algorithms — Grade: A — Credits: 3
+10. P 5 Management Science — Grade: 3 — Credits: 6
+11. Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: O 10 2 — Credits: 7
+12. O 10 1.5 P 8 Java Programming Lab — Grade: 9 — Credits: 0
+13. P 1 Computer Networks — Grade: 3 — Credits: 2
+14. P 2 Software Engineering For Business Applications — Grade: 3 — Credits: 3
+15. P Regd. No. 22091A3409 1/2 --- Page 2 --- 4 Data Visualization For Business Analysis — Grade: 3 — Credits: 4
+16. Introduction To Innovation, Ip Management And Entrepreneurship — Grade: 3 — Credits: 5
+17. Working With Cloud Services (Sdc) — Grade: A — Credits: 2
+18. O 10 1.5 P 8 Android Programming Lab — Grade: 9 — Credits: 0
+19. Technical Seminar — Grade: O 10 1 — Credits: 2
+20. Internship In Industry — Grade: 5 — Credits: 3
+21. P 3 Major Project — Grade: O 10 6 — Credits: 4
+22. P 4 5 Computer Vision With Opencv (Sdc) — Grade: A — Credits: 2
+23. P 6 7 Comprehensive Viva Voce-Vii — Grade: O 10 1 — Credits: 7
+24. Universal Human Values — Grade: A — Credits: 3

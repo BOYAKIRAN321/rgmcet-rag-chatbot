@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 23095A3406
+Student Name: PESALA PREMKUMAR
+Father Name: PESALA NAGASESHANNA
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

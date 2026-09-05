@@ -1,0 +1,11 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Linear Algebra And Advanced Calculus — Grade: B — Credits: 3
+2. Applied Physics — Grade: A — Credits: 3
+3. Data Structures — Grade: 3 — Credits: 4
+4. Mathematical Foundations Of Computer Science — Grade: 3 — Credits: 5
+5. P 5 English For Engineers — Grade: 3 — Credits: 6
+6. Problem Solving And Programming Lab — Grade: 8 — Credits: 0 A+ 9 1.5 P

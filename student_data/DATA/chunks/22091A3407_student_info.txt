@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3407
+Student Name: SOMA. INDRANIL
+Father Name: SOMA. SURESH
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

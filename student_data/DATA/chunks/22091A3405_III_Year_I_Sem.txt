@@ -1,0 +1,19 @@
+Student ID: 22091A3405
+Student Name: TELLAPURI HARI KIRAN REDDY
+Semester: III Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Computer Organization & Operating Systems — Grade: 3 — Credits: 1
+2. P 2 Full Stack Application Development — Grade: 3 — Credits: 2
+3. Engineering Economics & Accountancy For Business Systems — Grade: A — Credits: 3
+4. P Regd. No. 22091A3405 1/2 --- Page 2 --- 4 Data Visualization For Business Analysis — Grade: A — Credits: 3
+5. Introduction To Innovation, Ip Management And Entrepreneurship — Grade: 3 — Credits: 5
+6. Working With Cloud Services (Sdc) — Grade: 2 — Credits: 6
+7. Data Visualization For Business Analysis Lab — Grade: A — Credits: 8
+8. Iv Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Machine Learning For Finance — Grade: A — Credits: 3
+9. Personnel Management — Grade: B — Credits: 3
+10. It Project Management — Grade: B — Credits: 3
+11. Rural Management And Technologies — Grade: 2 — Credits: 4
+12. Moocs-Ii (Nptel) — Grade: B — Credits: 3
+13. Industrial / Research Internship — Grade: O 10 3 — Credits: 8
+14. Deep Learning — Grade: A — Credits: 3

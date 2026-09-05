@@ -1,0 +1,30 @@
+Student ID: 22091A3409
+Student Name: BHOGATHI KALPANA
+Semester: I Year I Sem
+
+Subjects:
+1. I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Linear Algebra And Advanced Calculus — Grade: O 10 3 — Credits: 1
+2. Applied Physics — Grade: 3 — Credits: 2
+3. Data Structures — Grade: 3 — Credits: 4
+4. Mathematical Foundations Of Computer Science — Grade: A — Credits: 3
+5. P 5 English For Engineers — Grade: A — Credits: 3
+6. O 10 1.5 P Ii Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Probability And Statistics — Grade: A — Credits: 3
+7. Python Programming — Grade: A — Credits: 3
+8. P 3 Database Management Systems — Grade: O 10 3 — Credits: 3
+9. Formal Languages And Automata Theory — Grade: 3 — Credits: 4
+10. P 5 Business Environment — Grade: B — Credits: 3
+11. Design Thinking And Innovations (Sdc) — Grade: 2 — Credits: 6
+12. Python Programming Lab — Grade: 7 — Credits: 0 B+ 7 1.5 P
+13. O 10 1.5 P Iii Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Computer Organization & Operating Systems — Grade: A — Credits: 3
+14. Full Stack Application Development — Grade: A — Credits: 3
+15. Engineering Economics & Accountancy For Business Systems — Grade: A — Credits: 3
+16. Marketing Research And Marketing Management — Grade: 3 — Credits: 5
+17. Sdc-I — Grade: 2 — Credits: 6
+18. P 6 Moocs-I (Nptel) — Grade: 3 — Credits: 7
+19. Iv Year I Sem Ii Sem S.No. Subject Im Gr Gp Cr. Res S.No. Subject Im Gr Gp Cr. Res 1 Machine Learning For Finance — Grade: 3 — Credits: 1
+20. Personnel Management — Grade: 3 — Credits: 2
+21. It Project Management — Grade: B — Credits: 3
+22. Rural Management And Technologies — Grade: A — Credits: 2
+23. P 5 6 Moocs-Ii (Nptel) — Grade: B — Credits: 3
+24. Industrial / Research Internship — Grade: O 10 3 — Credits: 8
+25. P 9 10 Deep Learning — Grade: A — Credits: 3

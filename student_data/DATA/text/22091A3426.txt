@@ -1,0 +1,88 @@
+
+
+===== PAGE 1 =====
+
+Student Details
+
+Regd. No. 22091A3426
+Degree & Branch B.Tech. & CSE&BS
+Name BANNELA RAJASHEKAR
+Father Name BANNELA NARASIMHULU
+Mother Name BANNELA RAMALINGAMMA
+Gender M
+Category BC-B
+Date of Birth 20-08-2005
+Academic Bank of Credit 654229497047 - Valid
+Year/Sem Activity Name Status Result
+1 NSS/NCC Approved Satisfactory
+2 Games and Sports Approved Satisfactory
+Foreign Language Spanish
+S.No. Subject Name Month & Year Marks Year & Sem. Status
+1 Soft Skills July - Dec 2023 52 IV B.Tech. | Sem. (Approved }
+2 Introduction To Internet Of Things Jan - April 2024 56 Il B.Tech. Il Sem. (approved }
+Year & Sem. Regulation Credits SGPA Backlogs
+| B.Tech. | Sem. R20 19.5 6.23 0
+| B.Tech. Il Sem. R20 19.5 5.85 0
+11 B.Tech. | Sem. R20 21.5 5.92 0
+I1 B.Tech. Il Sem. R20 21.5 5.38 0
+Ill B.Tech. | Sem. R20 21.5 5.92 0
+Ill B.Tech. Il Sem. R20 21.5 6.70 0
+IV B.Tech. | Sem. R20 26 7.29 0
+Total 151 6.23 0
+
+1/3
+
+
+===== PAGE 2 =====
+
+S.No Year & Sem Subject Attempt
+
+Nil
+
+Condonation, Rejoin & Detained
+
+Condonation
+
+S.No Batch Year & Sem. Cond. Yr. Percentage
+Nil
+Detained
+S.No Batch Year & Sem. Reason Percentage
+Nil
+Rejoining
+S.No Year & Sem. Rejoin with Batch
+Nil
+
+1 B.Tech. | Sem.(A -Section)
+
+LAAC AP PSP BEE ED EWITW EP Lab PSP Lab
+SubName A0001(30) A0004(30) A0501(30) A0202(30) A0301(30) A0592(25) A0093(25) A0591 (25)
+
+INT-1 16 10 11 17 7 23 20 20
+INT-2 6 14 11 11 10
+AS-1 10 9 8 10 10
+AS-2 7 10 10 8 7
+Final 22 23 20 25 18 23 20 20
+
+| B.Tech. Il Sem.(A -Section)
+
+DEVC MEC DS MFCS EE DEL Lab EC Lab DS Lab
+SubName A0007(30) A0005(30) A0502(30) A0503(30) A0003(30) A0091(25) A0092(25) A0593 (25)
+
+INT-1 1 4 9 11 9 18 14 18
+INT-2 10 8 9 11 12
+AS-1 8 7 8 10 8
+AS-2 0 7 8 10 8
+Final 12 14 17 21 20 18 14 18
+
+Il B.Tech. | Sem.(A -Section)
+
+P&S PYP DBMS FLAT BE DT PYP Lab DBMSLab - USP Lab
+Sub A0020 A0504 A0507 A0508 A3401 A0012 A0571 A0595 A0596
+Name (30) (30) (30) (30) (30) (30) (25) (25) (25)
+INT-1 2 5 T 1 7 6 15 22 20
+INT-2 5 10 13 6 12 16
+AS-1 9 10 10 3 8 9
+AS-2 9 0 9 3 10 9
+Final 14 14 21 8 20 23 15 22 20
+
+2/3

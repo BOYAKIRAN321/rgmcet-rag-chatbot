@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3412
+Student Name: PUCHAKATLA LATHA
+Father Name: PUCHAKATLA CHINNA VENKATASUBBAIAH
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

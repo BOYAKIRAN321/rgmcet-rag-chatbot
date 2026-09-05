@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 23095A3402
+Student Name: PEDDAMALLU GANGA PRANEETH REDDY
+Father Name: P GANGA MAHESWAR REDDY
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

@@ -1,0 +1,18 @@
+Student ID: 22091A3405
+Student Name: TELLAPURI HARI KIRAN REDDY
+Semester: III Year II Sem
+
+Subjects:
+1. Computer Networks — Grade: A — Credits: 3
+2. Software Engineering For Business Applications — Grade: 3 — Credits: 3
+3. P 3 Big Data Analytics — Grade: A — Credits: 3
+4. P 4 Marketing Research And Marketing Management — Grade: 3 — Credits: 5
+5. Sdc-I — Grade: 2 — Credits: 6
+6. Moocs-I (Nptel) — Grade: A — Credits: 3
+7. Android Programming Lab — Grade: 9 — Credits: 0
+8. P 1 Technical Seminar — Grade: O 10 1 — Credits: 2
+9. P 2 Internship In Industry — Grade: 5 — Credits: 3
+10. P 3 Major Project — Grade: O 10 6 — Credits: 4
+11. Computer Vision With Opencv (Sdc) — Grade: 2 — Credits: 5
+12. P 6 7 Comprehensive Viva Voce-Vii — Grade: O 10 1 — Credits: 7
+13. Universal Human Values — Grade: 3 — Credits: 9

@@ -1,0 +1,12 @@
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Semester: II Year II Sem
+
+Subjects:
+1. P 1 Digital Logic Design — Grade: A — Credits: 3
+2. P 2 Essential Mathematics For Computational Sciences — Grade: 3 — Credits: 3
+3. Java Programming — Grade: A — Credits: 3
+4. Advanced Data Structures And Algorithms — Grade: A — Credits: 3
+5. Management Science — Grade: A — Credits: 3
+6. Aptitude Arithmetic Reasoning And Comprehension (Sdc) — Grade: A — Credits: 2
+7. O 10 1.5 P 8 Database Management Systems Lab — Grade: 8 — Credits: 0

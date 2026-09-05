@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3406
+Student Name: ADIKE HARISH
+Father Name: ADIKE SARVESWARAIAH
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology

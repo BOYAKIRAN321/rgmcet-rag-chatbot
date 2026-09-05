@@ -1,0 +1,7 @@
+Student Information
+-------------------
+Student ID: 22091A3410
+Student Name: KUMPATI KAVYA
+Father Name: K V NAGENDRA RAO
+Branch: CSE & Business Systems
+College: Rajeev Gandhi Memorial College of Engineering and Technology
