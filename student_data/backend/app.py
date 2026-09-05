@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, send_from_directory
-from rag_pipeline import run_rag
+from backend.rag_pipeline import run_rag
 import os
 
 app = Flask(__name__, static_folder="../frontend", static_url_path="")
