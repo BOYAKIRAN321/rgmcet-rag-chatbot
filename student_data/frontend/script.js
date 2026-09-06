@@ -44,7 +44,7 @@ async function sendQuery() {
 
     try {
         // FIXED: Use relative path /ask, not absolute http://127.0.0.1:5000/ask (avoids CORS)
-        const response = await fetch("/ask", {
+        const response = await fetch("https://rgmcet-rag-chatbot.onrender.com/ask", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ query: query })
