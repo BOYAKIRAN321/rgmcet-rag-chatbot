@@ -172,15 +172,55 @@ def retrieve_docs(query, k=50):
         return get_class_ranking()
         # FAISS nundi chunks teesuko - DATA folder link
     db = get_vectorstore()
-    if db is None:
-        return "❌ FAISS not found"
-    all_docs = db.similarity_search(query, k=50)
-    print(f"Loaded {len(all_docs)} docs from DATA")
+    all_docs = db.similarity_search(query, k=50) if db else []
+    print(f"FAISS gave {len(all_docs)} docs")
 
     if student_id:
         sid = student_id.upper()
-        student_docs = [doc for doc in all_docs if str(doc.metadata.get("student_id", "")).upper() == sid]
+        student_docs = [doc for doc in all_docs if str(doc.metadata.get("student_id", "")).upper() == sid or sid.lower() in doc.page_content.lower()]
 
+        # 🔥 FALLBACK: FAISS lo lekapothe extracted_text nundi direct chadu - idhe main fix!
+        if not student_docs:
+            import os
+            fallback_paths = [
+                f"student_data/DATA/extracted_text/{sid}.txt",
+                f"student_data/DATA/text/{sid}.txt",
+                f"DATA/extracted_text/{sid}.txt",
+                f"student_data/DATA/CGPA/{sid}.txt"
+            ]
+            for fpath in fallback_paths:
+                if os.path.exists(fpath):
+                    print(f"✅ Found direct file: {fpath}")
+                    with open(fpath, 'r', encoding='utf-8', errors='ignore') as f:
+                        content = f.read()
+                    from langchain_core.documents import Document
+                    doc = Document(page_content=content, metadata={"student_id": sid, "source": fpath})
+                    student_docs = [doc]
+                    break
+                # 🔥 FAILED SUBJECTS FIX - idi add chey
+        if "fail" in query.lower() or "backlog" in query.lower():
+            if not student_docs:
+                return f"❌ Roll number {sid} data not found even in extracted_text"
+
+            fail_list = []
+            for doc in student_docs:
+                for line in doc.page_content.split("\n"):
+                    upper_line = line.upper()
+                    # F grade patterns
+                    if " GRADE: F" in upper_line or " GRADE - F" in upper_line or " : F " in upper_line or upper_line.strip().endswith(" F") or " FAIL" in upper_line:
+                        fail_list.append(line.strip())
+
+            if fail_list:
+                msg = f"📚 **Failed Subjects for {sid}:**\n"
+                for i, sub in enumerate(list(dict.fromkeys(fail_list)), 1): # remove duplicates
+                    msg += f"{i}. {sub}\n"
+                return msg
+            else:
+                # Debug - show what data we have
+                preview = student_docs[0].page_content[:1500]
+                return f"✅ Found {sid} data but no 'F' tag found. Your file content preview:\n{preview}\n\nCheck if your extracted_text/{sid}.txt has F grades marked as 'Grade: F'"
+
+        if intent in ["student_details", "branch", "college", "student_name", "father_name"]:
         if intent in ["student_details", "branch", "college", "student_name", "father_name"]:
             for doc in all_docs:
                 if str(doc.metadata.get("student_id", "")).upper() == sid and doc.metadata.get("type") == "student_info":
