@@ -1,4 +1,5 @@
 import os
+import re
 import pathlib
 import requests
 from langchain_community.vectorstores import FAISS
@@ -43,9 +44,33 @@ def load_models():
 
 def get_answer(query):
     load_models()
-    docs = vector_db.similarity_search(query, k=3)
-    context = "\n".join([d.page_content for d in docs])
-    prompt = f"Context: {context}\n\nQuestion: {query}\nAnswer:"
+    # Roll number ni direct ga vetuku
+    match = re.search(r'\b\d{2}[A-Z0-9]+[A-Z0-9]{4,}\b', query.upper())
+    roll = match.group(0) if match else "".join(filter(str.isalnum, query)).upper()
+    
+    # Normal similarity search
+    docs = vector_db.similarity_search(query, k=10)
+    
+    # Extra: roll number unna docs ni filter chey
+    matched = [d for d in docs if roll in d.page_content.upper() or query.upper() in d.page_content.upper()]
+    
+    # If matched docs unnayi, vaatike vadali
+    if matched:
+        docs = matched
+    
+    context = "\n\n".join([d.page_content for d in docs])
+    
+    # Prompt kuda strict ga marchu
+    prompt = f"""You are RGMCET assistant. Answer ONLY from Context.
+If roll number {roll} is in context, give full details. Don't say not found if it's there.
+
+Context:
+{context}
+
+Question: {query}
+
+Answer:"""
+    
     resp = llm.invoke(prompt)
     return resp.content, docs
 
