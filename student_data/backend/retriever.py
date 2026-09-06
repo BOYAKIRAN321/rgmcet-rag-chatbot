@@ -139,7 +139,7 @@ def get_max_backlogs():
 def get_class_ranking(top_n=None):
     return get_topper()
 
-def retrieve_docs(query, k=1):
+def retrieve_docs(query, k=10):
     student_id = extract_student_id(query)
     semester = extract_semester(query)
     intent = detect_intent(query)
