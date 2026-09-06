@@ -38,7 +38,7 @@ def load_models():
     if DB_PATH is None: raise FileNotFoundError("index.faiss not found!")
     vector_db = FAISS.load_local(str(DB_PATH), embeddings, allow_dangerous_deserialization=True)
     vector_db.embedding_function = embeddings
-    llm = ChatGroq(model="llama-3.3-70b-versatile", groq_api_key=os.environ.get("GROQ_API_KEY"), temperature=0.1)
+    llm = ChatGroq(model="openai/gpt-oss-120b", groq_api_key=os.environ.get("GROQ_API_KEY"), temperature=0.1)
     print("✅ Models loaded!")
 
 def get_answer(query):
