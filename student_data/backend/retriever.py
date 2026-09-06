@@ -6,23 +6,36 @@ from langchain_huggingface import HuggingFaceEmbeddings
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FAISS_PATH = os.path.join(BASE_DIR, "DATA", "faiss_index")
 
-def load_vectorstore():
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
-    return FAISS.load_local(
-        FAISS_PATH,
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
+import os
+from langchain_community.vectorstores import FAISS
 
-try:
-    db = load_vectorstore()
-    all_docs = list(db.docstore._dict.values())
-except Exception as e:
-    print(f"⚠️ FAISS load failed: {e}")
-    db = None
-    all_docs = []
+def get_vectorstore():
+    possible_paths = [
+        "student_data/DATA/faiss_index",
+        "student_data/faiss_index",
+        "DATA/faiss_index",
+        "faiss_index",
+        "./student_data/DATA/faiss_index",
+        "./student_data/faiss_index"
+    ]
+    
+    for path in possible_paths:
+        index_file = os.path.join(path, "index.faiss")
+        pkl_file = os.path.join(path, "index.pkl")
+        if os.path.exists(index_file) and os.path.exists(pkl_file):
+            print(f"✅ Loading FAISS from: {path}")
+            try:
+                from langchain_community.embeddings import HuggingFaceEmbeddings
+                embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+                db = FAISS.load_local(path, embeddings, allow_dangerous_deserialization=True)
+                print(f"✅ Loaded {db.index.ntotal} chunks")
+                return db
+            except Exception as e:
+                print(f"❌ Failed to load from {path}: {e}")
+                continue
+    
+    print("❌ No FAISS index found in any path!")
+    return None
 
 def count_total_students():
     student_ids = set()
