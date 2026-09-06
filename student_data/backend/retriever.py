@@ -152,7 +152,7 @@ def get_max_backlogs():
 def get_class_ranking(top_n=None):
     return get_topper()
 
-def retrieve_docs(query, k=10):
+def retrieve_docs(query, k=50):
     student_id = extract_student_id(query)
     semester = extract_semester(query)
     intent = detect_intent(query)
@@ -170,7 +170,13 @@ def retrieve_docs(query, k=10):
         return get_max_backlogs()
     if intent == "ranks":
         return get_class_ranking()
-    
+        # FAISS nundi chunks teesuko - DATA folder link
+    db = get_vectorstore()
+    if db is None:
+        return "❌ FAISS not found"
+    all_docs = db.similarity_search(query, k=50)
+    print(f"Loaded {len(all_docs)} docs from DATA")
+
     if student_id:
         sid = student_id.upper()
         student_docs = [doc for doc in all_docs if str(doc.metadata.get("student_id", "")).upper() == sid]
